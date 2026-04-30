@@ -6,8 +6,7 @@
 
 # Mirah <a href="#"><font color="#c50600">Organization</font></a>
 
-[![Discord server](https://img.shields.io/discord/1195734228319617024.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/3nPMKZ2h)
-
+[![Discord server](https://img.shields.io/discord/1499281835203498105.svg?label=&labelColor=c50600&color=c50600&logo=discord&logoColor=FFFFFF)](https://discord.gg/3nPMKZ2h)
 </div>
 
 ## About Mirah
@@ -18,3 +17,4 @@ Mirah is port of Mihon for windows it is a full-featured reader app for Windows 
 
 At Mirah, we're committed to bringing open-source smooth experience of Mihon to Windows
 
+[![mirahapp/mirah - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=mirahapp&repo=mirah&bg_color=161B22&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true&description_lines_count=2)](https://github.com/mirahapp/mirah/)
