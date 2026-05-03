@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MirahApp/mirah/main/.github/assets/icon-1024.png" width="96" alt="Mirah" />
+<img src="./logo.png" width="96" alt="Mirah" />
 
 # MirahApp
 
