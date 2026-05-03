@@ -1,20 +1,44 @@
 <div align="center">
 
-<a href="https://mihon.app">
-    <img src="./logo.png" alt="Mihon logo" title="Mihon logo" width="80"/>
-</a>
+<img src="https://raw.githubusercontent.com/MirahApp/mirah/main/.github/assets/icon-1024.png" width="96" alt="Mirah" />
 
-# Mirah <a href="#"><font color="#c50600">Organization</font></a>
+# MirahApp
 
-[![Discord server](https://img.shields.io/discord/1499281835203498105.svg?label=&labelColor=c50600&color=c50600&logo=discord&logoColor=FFFFFF)](https://discord.gg/3nPMKZ2h)
+Free and open source manga reader for Windows — a native port of Mihon.
+
+[![License](https://img.shields.io/badge/License-Apache--2.0-CC0000?style=flat-square)](https://github.com/MirahApp/mirah/blob/main/LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Windows-CC0000?style=flat-square)](https://github.com/MirahApp/mirah)
+[![Status](https://img.shields.io/badge/Status-Early%20Development-CC0000?style=flat-square)](https://github.com/MirahApp/mirah)
+[![Discord](https://img.shields.io/discord/1499281835203498105?label=Discord&labelColor=CC0000&color=CC0000&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/3nPMKZ2h)
+
 </div>
 
-## About Mirah
+---
 
-Mirah is port of Mihon for windows it is a full-featured reader app for Windows devices, designed to make discovering and reading manga, webtoons, comics, and more easier than ever. Mirah tries to bring the same smooth and good user experience of Mihon to Windows
+## About
 
-## Our Projects
+Mirah is a native Windows desktop manga reader built on top of Mihon's foundation. No browser wrappers, no extra servers — just a clean, fast app that runs on your PC.
 
-At Mirah, we're committed to bringing open-source smooth experience of Mihon to Windows
+Built with Kotlin and Compose Multiplatform.
 
-[![mirahapp/mirah - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=mirahapp&repo=mirah&bg_color=161B22&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true&description_lines_count=2)](https://github.com/mirahapp/mirah/)
+---
+
+## Projects
+
+| Repository | Description |
+|---|---|
+| [**mirah**](https://github.com/MirahApp/mirah) | The main Windows desktop app |
+
+---
+
+## Links
+
+- 💬 [Discord](https://discord.gg/3nPMKZ2h) — community and support
+- 🌐 Website — coming soon
+- 📥 Download — coming soon
+
+---
+
+## Contributing
+
+Mirah is in early development and welcomes contributors of all skill levels — Kotlin, UI design, testing, documentation. See the [contributing guide](https://github.com/MirahApp/mirah/blob/main/CONTRIBUTING.md) to get started.
